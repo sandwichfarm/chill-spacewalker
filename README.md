@@ -1,6 +1,26 @@
-# Better SpaceWalker
+# 🧊 Chill SpaceWalker
 
-**Fully automated VITURE Pro XR glasses integration for macOS**
+```
+    ╔═══════════════════════════════════════════════════════════════════╗
+    ║                         🧊 CHILL SPACEWALKER 🥽                   ║
+    ║                                                                   ║
+    ║    ┌─────┐  ┌─────┐  ┌─────┐     🔌 Plug & Play Automation       ║
+    ║    │ VR1 │  │ VR2 │  │ VR3 │     🚀 Zero Manual Interaction      ║
+    ║    └─────┘  └─────┘  └─────┘     ⚡ 120Hz Triple Display          ║
+    ║         ╲      │      ╱          🛡️  Background Daemon           ║
+    ║          ╲     │     ╱           ✨ Just Chill & Code            ║
+    ║           ╲    │    ╱                                             ║
+    ║            ╲   │   ╱                                              ║
+    ║             ╲  │  ╱               🥽 VITURE Pro XR                ║
+    ║              ╲ │ ╱                🖥️  3-Wide @ 120Hz             ║
+    ║               ╲│╱                 💻 macOS 15.3+                  ║
+    ║                🕶️                 🎯 Auto Launch & Click          ║
+    ╚═══════════════════════════════════════════════════════════════════╝
+```
+
+**The chillest way to automate your VITURE Pro XR glasses on macOS** 😎
+
+Just plug in your glasses and **chill** - everything else happens automatically!
 
 This project provides a complete background automation system that seamlessly launches SpaceWalker when your VITURE Pro XR glasses are connected and automatically configures and starts your XR session. When you unplug the glasses, it gracefully shuts down SpaceWalker.
 
@@ -40,8 +60,8 @@ This project provides a complete background automation system that seamlessly la
 ### 1. Download and Install
 
 ```bash
-git clone https://github.com/yourusername/better-spacewalker
-cd better-spacewalker
+git clone https://github.com/sandwichfarm/chill-spacewalker.git
+cd chill-spacewalker
 ./install.sh
 ```
 
@@ -137,7 +157,7 @@ tail -f /tmp/spacewalker_daemon.log
 ## 📁 File Structure
 
 ```
-better-spacewalker/
+chill-spacewalker/
 ├── spacewalker_daemon.sh           # Main bash daemon (reliable)
 ├── spacewalker_control.sh          # CLI control interface
 ├── SpaceWalkerDaemon.swift         # Swift daemon (alternative)
