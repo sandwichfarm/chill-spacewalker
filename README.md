@@ -20,6 +20,11 @@
 
 **The chillest way to automate your VITURE Pro XR glasses on macOS** 😎
 
+[![macOS](https://img.shields.io/badge/macOS-15.3+-blue?style=flat-square&logo=apple)](https://www.apple.com/macos/)
+[![VITURE](https://img.shields.io/badge/VITURE-Pro%20XR-purple?style=flat-square&logo=vr)](https://www.viture.com/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![Automation](https://img.shields.io/badge/Manual%20Clicking-0%25-brightgreen?style=flat-square)](README.md)
+
 Just plug in your glasses and **chill** - everything else happens automatically!
 
 This project provides a complete background automation system that seamlessly launches SpaceWalker when your VITURE Pro XR glasses are connected and automatically configures and starts your XR session. When you unplug the glasses, it gracefully shuts down SpaceWalker.
@@ -403,6 +408,16 @@ This project is provided as-is for educational and personal use. Use at your own
 
 ---
 
-**Enjoy your seamless VITURE Pro XR experience! 🥽✨**
+---
 
-*No more manual button clicking - just plug in and go!*
+## 🎉 **Enjoy your seamless VITURE Pro XR experience!** 🥽✨
+
+### *No more manual button clicking - just plug in and chill!* 🧊
+
+<div align="center">
+
+**Made with ❤️ for the VITURE community**
+
+[⭐ Star this repo](https://github.com/sandwichfarm/chill-spacewalker) • [🐛 Report bugs](https://github.com/sandwichfarm/chill-spacewalker/issues) • [💡 Request features](https://github.com/sandwichfarm/chill-spacewalker/issues)
+
+</div>
